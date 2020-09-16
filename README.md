@@ -1,11 +1,10 @@
 ### Hi there 👋, my name is Wanvisa Nantawong
 #### I am software engineer
-![I am software engineer](https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/65019940_2315695952029930_7671668896193052672_o.jpg?_nc_cat=103&_nc_sid=84a396&_nc_eui2=AeG5RZVNxMQNrnwPBb3QIretGoyWb9JT0gEajJZv0lPSAasvNYNJ9ZUv5AUZfuUs8w7W-mhNciu86t_HzXuRUBFJ&_nc_ohc=plCiVFpx5U8AX_SOz46&_nc_ht=scontent.fbkk12-4.fna&oh=0700e6bddbf20bdf1639babcb71f5d34&oe=5F874D9A)
+![I am software engineer](https://scontent.fbkk9-2.fna.fbcdn.net/v/t1.0-9/60282528_2286544504945075_1293099698025922560_o.jpg?_nc_cat=109&_nc_sid=84a396&_nc_eui2=AeEUyngmr3DXn3PTxzbiEgSduwQiwHRSvJa7BCLAdFK8ljrIbHTo283vnLmhDTH83wCEzKnk8NzBICVMvCf3uPrp&_nc_ohc=6U--FOrO7NEAX9BYyEo&_nc_ht=scontent.fbkk9-2.fna&oh=e3803816357dc03cf773b8c61e45ada9&oe=5F889DFF)
 
 
 Skills: VUE JS / Python/ Django / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🤔 I’m looking for help with OpenCv 
 
 
